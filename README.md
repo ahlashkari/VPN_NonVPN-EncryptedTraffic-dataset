@@ -48,4 +48,4 @@ The ISCXVPN2016 dataset is publicly available for researchers. If you are using 
     Gerard Drapper Gil, Arash Habibi Lashkari, Mohammad Mamun, Ali A. Ghorbani, "Characterization of Encrypted and VPN Traffic Using Time-Related Features", In Proceedings of the 2nd International Conference on Information Systems Security and Privacy(ICISSP 2016) , pages 407-414, Rome, Italy.
     
 # Download Link
-    http://205.174.165.80/CICDataset/ISCX-VPN-NonVPN-2016/
+http://205.174.165.80/CICDataset/ISCX-VPN-NonVPN-2016/
