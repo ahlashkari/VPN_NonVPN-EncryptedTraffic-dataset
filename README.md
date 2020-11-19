@@ -1,4 +1,4 @@
-# VPN-EncryptedTraffic-dataset
+# VPN-EncryptedTraffic-dataset (ISCX-VPN2016)
 To generate a representative dataset of real-world traffic we defined a set of tasks, assuring that our dataset is rich enough in diversity and quantity. We created accounts for users Alice and Bob in order to use services like Skype, Facebook, etc. Below we provide the complete list of different types of traffic and applications considered in our dataset for each traffic type (VoIP, P2P, etc.)
 
 We captured a regular session and a session over VPN, therefore we have a total of 14 traffic categories: VOIP, VPN-VOIP, P2P, VPN-P2P, etc. We also give a detailed description of the different types of traffic generated:
