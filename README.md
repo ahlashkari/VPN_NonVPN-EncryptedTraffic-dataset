@@ -38,7 +38,9 @@ ISCXFlowMeter has been written in Java for reading the pcap files and create the
 
 The ISCXVPN2016 dataset is publicly available for researchers. If you are using our dataset, you should cite our related research paper which outlining the details of the dataset and its underlying principles:
 
-    Gerard Drapper Gil, Arash Habibi Lashkari, Mohammad Mamun, Ali A. Ghorbani, "Characterization of Encrypted and VPN Traffic Using Time-Related Features", In Proceedings of the 2nd International Conference on Information Systems Security and Privacy(ICISSP 2016) , pages 407-414, Rome, Italy.
+    Gerard Drapper Gil, Arash Habibi Lashkari, Mohammad Mamun, Ali A. Ghorbani, 
+    "Characterization of Encrypted and VPN Traffic Using Time-Related Features", 
+    In Proceedings of the 2nd International Conference on Information Systems Security and Privacy(ICISSP 2016) , pages 407-414, Rome, Italy.
     
 # Download Link
 http://205.174.165.80/CICDataset/ISCX-VPN-NonVPN-2016/
